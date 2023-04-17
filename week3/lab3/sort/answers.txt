@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: When you run sort1 with all the files of numbers sorted is the fastest, and bubble sort is the fastest when numbers are already sorted.
+
+sort2 uses: Merge Sort
+
+How do you know?: When run sort2 random5000 is the fastest with a time of 0.038 seconds and merge sort is the fastest algorithm for unsorted numbers.
+
+sort3 uses: Selection Sort
+
+How do you know?: Is the slowest in all categories, except for reversed
